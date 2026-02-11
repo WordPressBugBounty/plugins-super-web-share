@@ -3,7 +3,7 @@ Contributors: superwebshare
 Donate link: https://superwebshare.com/donate
 Tags: share button, web share, share, Share API, social share
 Requires at least: 3.0.1
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 2.5.1
 Requires PHP: 7.0
 License: GPLv2 or later
