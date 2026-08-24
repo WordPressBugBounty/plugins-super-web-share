@@ -3,8 +3,8 @@ Contributors: superwebshare
 Donate link: https://superwebshare.com/donate
 Tags: share button, web share, share, Share API, social share
 Requires at least: 3.0.1
-Tested up to: 6.9
-Stable tag: 2.5.1
+Tested up to: 7.1
+Stable tag: 2.5.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,11 +20,11 @@ The Super Web Share plugin for WordPress helps increase your traffic and engagem
 
 It takes less than a minute to set up Super Web Share, and we provide a clean uninstall by removing the entire data entry it creates. We also won't save any settings to your database until you manually save the settings. We also provide a fallback native popup if the Native Web Share is not supported within the browser.
 
-Currently, the Super Web Share plugin provides a share button before and after the post/page content and a floating share button where you can set the color, the text of the share buttons, and the position of the floating button; it can also set the pages or posts which you would like to show the share buttons via our Settings page, to easily add the share feature to your websites. As a plugin that focuses on simplicity, we are fully compatible with the AMP plugin, which means you can add the native share to your AMP pages provided by the AMP plugin.
+Currently, the Super Web Share plugin provides a social share button before and after the post/page content and a floating share button where you can set the color, the text of the share buttons, and the position of the floating button; it can also set the pages or posts which you would like to show the share buttons via our Settings page, to easily add the share feature to your websites. As a plugin that focuses on simplicity, we are fully compatible with the AMP plugin, which means you can add the native share to your AMP pages provided by the AMP plugin.
 
 ### Social Platforms supported
 **1) On Web Sharing API supported devices:** 
-You will notice the share prompt (also called as sharesheet) where you can share the page via all applications installed on your device that accept the sharing (mobile - Android and iOS devices, tab, desktop - for Microsoft Edge browser). This means all the social sharing platforms on your website visitor's devices can be selected from the list to share the page in a simple click!
+You will notice the social share prompt (also called as sharesheet) where you can share the page via all applications installed on your device that accept the sharing (mobile - Android and iOS devices, tab, desktop - for Microsoft Edge browser). This means all the social sharing platforms on your website visitor's devices can be selected from the list to share the page in a simple click!
 **2) If the device or browser won't support the native share:**
 If the website is viewed from a browser or device that won't support native sharing, our fallback modal works. Within the fallback modal, you can select the social platforms you want to show for your website via our settings page (SuperWebShare > Fallback). The social share platforms that are interested to show on the WordPress website can be selected. Right now, we are providing social media like Facebook, X (Twitter), LinkedIn, Pinterest, Mastodon, Telegram, Pinterest, and Email. We're expanding with more social platforms.
 
@@ -116,6 +116,9 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 6. Fallback on the desktop with social media platforms like WhatsApp, Twitter, Facebook, and LinkedIn.
 
 == Changelog ==
+
+= 2.5.2 =
+Tested with WordPress 7.1
 
 = 2.5.1 =
 ### Release Date: June 8th, 2024
